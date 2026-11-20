@@ -13,7 +13,7 @@ Projeto prático desenvolvido para consolidar os pilares da **Programação Orie
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/IsabelydaSilva8/LP19-ai-pipeline-oop-python
    ```
 2. Acesse a pasta e execute o script:
    ```bash
